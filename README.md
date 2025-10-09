@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://avishakh.github.io/Trail-Room/](https://avishakh.github.io/Trail-Room----/)
+- 👨‍💻 All of my projects are available at [https://avishakh.github.io/Trail-Room/](https://avishakh.github.io/Trail-Room/)
 
 - 📫 How to reach me **studiouspook@gmail.com**
 
