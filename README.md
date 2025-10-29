@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avishakh Chakrabortty</h1>
+<h1 align="center">Hi, I'm Avishakh Chakrabortty</h1>
 <h3 align="center">Pursing Computer Science and Engineering at Stamford University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishakh&label=Profile%20views&color=0e75b6&style=flat" alt="avishakh" /> </p>
