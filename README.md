@@ -13,7 +13,7 @@
 <h3 align="center">Debugging life while learning to code🐢</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-- 🏆 Champion **Intra University Programming Contest 2025**  
+- 🏆 Champion, **Intra University Programming Contest 2025**  
 - 🌱 I’m currently learning **Cyber Security and Web Development**  
 - 👨‍💻 All of my projects are available at [https://avishakh.github.io/Trail-Room/](https://avishakh.github.io/Trail-Room/)  
 - 📫 How to reach me **studiouspook@gmail.com**
