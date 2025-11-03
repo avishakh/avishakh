@@ -1,6 +1,8 @@
 <!-- 🌟 Masterhead Banner -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3XcOLfLcVgvZ7VLbcc8kkZMzK1mDo3EMRw&s" alt="Avishakh Chakrabortty Banner" width="100%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3XcOLfLcVgvZ7VLbcc8kkZMzK1mDo3EMRw&s"
+       alt="Avishakh Chakrabortty Banner"
+       style="width:100%; height:400px; object-fit:cover; border-radius:10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Avishakh Chakrabortty</h1>
@@ -63,16 +65,4 @@
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishakh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishakh&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40_
