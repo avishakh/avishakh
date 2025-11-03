@@ -1,3 +1,7 @@
+
+
+
+
 <!-- 🌟 Masterhead Banner -->
 <p align="center">
   <img src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif" 
@@ -7,6 +11,7 @@
 
 <h1 align="center">Hi 👋, I'm Avishakh Chakrabortty</h1>
 <h3 align="center">Pursuing Computer Science and Engineering at Stamford University</h3>
+<img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 - 🏆 Champion **Intra University Programming Contest 2025**  
 - 🌱 I’m currently learning **Cyber Security and Web Development**  
