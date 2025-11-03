@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">Still writing the code of my journey✍️</h1>
-<h3 align="center">Pursuing Computer Science and Engineering at Stamford University</h3>
+<h3 align="center">Debugging life while learning to code.</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 - 🏆 Champion **Intra University Programming Contest 2025**  
