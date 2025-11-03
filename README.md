@@ -9,7 +9,7 @@
        style="width:100%; max-height:400px; object-fit:cover; border-radius:10px;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Avishakh Chakrabortty</h1>
+<h1 align="center">Still writing the code of my journey✍️</h1>
 <h3 align="center">Pursuing Computer Science and Engineering at Stamford University</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
