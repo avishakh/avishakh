@@ -15,7 +15,7 @@
 
 - 🏆 Champion, **Intra University Programming Contest 2025**  
 - 🌱 I’m currently learning **Cyber Security and Web Development**  
-- 👨‍💻 All of my projects are available at [https://avishakh.github.io/Trail-Room/]((https://avishakh.github.io/avishakh.portfolio/))  
+- 👨‍💻 All of my projects are available at [https://avishakh.github.io/avishakh.portfolio/]  
 - 📫 How to reach me **studiouspook@gmail.com**
 
 ---
