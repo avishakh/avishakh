@@ -1,7 +1,5 @@
 
 
-
-
 <!-- 🌟 Masterhead Banner -->
 <p align="center">
   <img src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif" 
